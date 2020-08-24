@@ -1,5 +1,5 @@
 server:
-  port: 3366
+  port: 3355
 config: 
   info: 显示测试一下毛李勇哈哈哈
 spring:
