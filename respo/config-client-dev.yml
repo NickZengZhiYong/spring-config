@@ -1,7 +1,7 @@
 server:
   port: 3366
 config: 
-  info: 显示测试一下
+  info: 显示测试一下毛李勇
 spring:
   application:
     name: config-client
